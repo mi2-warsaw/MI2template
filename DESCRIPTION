@@ -1,7 +1,10 @@
 Package: MI2template
 Title: 'pkgdown' template for MI2 Packages
 Version: 0.1.0.0000
-Maintainer: Alicja Gosiewska <alicjagosiewska@gmail.com>
+Authors@R: c(
+  person("Alicja", "Gosiewska", email = "alicja.gosiewska@gmail.com", role = c("aut", "cre")),
+  person("Aleksandra", "Dabrowska", email = "oll.dabrowska@gmail.com", role = "aut")
+  )
 Description: This is a private template for use by MI2 packages.
    Please don't use for your own code.
 License: GPL
