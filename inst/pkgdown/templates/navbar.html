@@ -1,5 +1,5 @@
 {{#navbar}}
-<div class="navbar navbar-{{{type}}} navbar-fixed-top" role="navigation">
+<div class="navbar navbar-{{{type}}} navbar-fixed-top navbar-mi2" role="navigation">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
@@ -10,11 +10,11 @@
 	  <a class = "navbar-mi2logo" href="http://mi2.mini.pw.edu.pl/">
         <img src = "https://github.com/mi2-warsaw/MI2template/blob/master/inst/pkgdown/assets/MI2logo.jpg?raw=true" alt = "MI2" height = 46 title = "MI2">
 	  </a>
-      <a class="navbar-brand" href="{{#site}}{{root}}{{/site}}index.html">{{title}}</a>
+      <a class="navbar-brand navbar-mi2" href="{{#site}}{{root}}{{/site}}index.html">{{title}}</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       {{#left}}
-      <ul class="nav navbar-nav">
+      <ul class="navbar-mi2 nav navbar-nav">
         {{{.}}}
       </ul>
       {{/left}}
