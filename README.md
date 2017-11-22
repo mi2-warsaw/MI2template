@@ -24,6 +24,7 @@ template:
   default_assets: false
 ```
 
+#### Creating site
 
 Run pkgdown from the package directory:
 ```
@@ -31,14 +32,6 @@ pkgdown::build_site()
 ```
 This will generate a `docs/` directory with a website for your package.
 
-
-To publish your site enabling GitHub Pages to publish your site
-
-On GitHub, navigate to your GitHub Pages site's repository.
-
-Repository settings buttonUnder your repository name, click
-
-Settings.
 
 #### Publishing site 
 
