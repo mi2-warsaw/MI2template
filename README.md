@@ -32,3 +32,20 @@ pkgdown::build_site()
 This will generate a `docs/` directory with a website for your package.
 
 
+To publish your site enabling GitHub Pages to publish your site
+
+On GitHub, navigate to your GitHub Pages site's repository.
+
+Repository settings buttonUnder your repository name, click
+
+Settings.
+
+#### Publishing site 
+
+- navigate to **Settings** of your GitHub repository,
+
+- in **GitHub Pages** section choose **master branch /docs folder** as your **Source**
+
+- Save
+
+Site should be publishet `<user/organization>.github.io/<repistory name>`
