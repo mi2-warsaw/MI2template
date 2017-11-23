@@ -3,7 +3,7 @@ pkgdown template for MI2 DataLab projects
 
 ## Instructions
 
-###Installation
+### Installation
 
 Make sure you have installed the current versions of the [`pkgdown`](https://github.com/hadley/pkgdown) and `MI2template` packages. 
 
@@ -41,4 +41,4 @@ This will generate a `docs/` directory with a website for your package.
 
 - Save
 
-Site should be publishet `<user/organization>.github.io/<repistory name>`
+Site should be published: `<user/organization>.github.io/<repistory name>`
