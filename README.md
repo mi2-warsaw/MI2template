@@ -1,6 +1,8 @@
 # MI2template
 pkgdown template for MI2 DataLab projects
 
+[Example pkgdown site with up-to-date MI2 template](https://mi2-warsaw.github.io/auditor/index.html)
+
 ## Instructions
 
 ### Installation
